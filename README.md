@@ -105,8 +105,8 @@
 
 ## 7. 발표 자료
 
-[Kotra 최종 발표자료](https://drive.google.com/file/d/1EDkXvKUp2k8tOp5DhhiGhCuS2AW9jyRu/view)  
-[Kotra 분석보고서](https://drive.google.com/file/d/1YaerP9CdZEshwCFb7PUbA5G7QbBqSz0s/view)
+[KOTRA 최종 발표자료](https://drive.google.com/file/d/1EDkXvKUp2k8tOp5DhhiGhCuS2AW9jyRu/view)  
+[KOTRA 분석보고서](https://drive.google.com/file/d/1YaerP9CdZEshwCFb7PUbA5G7QbBqSz0s/view)
 
 <br/>
 
