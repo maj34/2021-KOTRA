@@ -44,7 +44,7 @@
 
 <br/>
 
-## 5. 담당 역할
+## 5. 프로젝트 담당 역할
 
 - 외부 데이터 Crawling 및 전처리 & EDA
 - LGBM, ExtraTree, DNN 모델 학습 및 최적화
